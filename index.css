@@ -1,0 +1,157 @@
+.row1{
+    height: 70px;
+    background-color:whitesmoke;
+}
+.step1{
+    height: 5px;
+    background-color: rgb(247, 247, 20);
+}
+.step2{
+    height: 5px;
+    background-color: yellow;
+}.step3{
+    height: 5px;
+    background-color: rgb(241, 244, 38);
+}.step4{
+    height: 5px;
+    background-color: rgba(244, 244, 110, 0.963);
+}
+.step5{
+    height: 5px;
+}
+#img{
+    float: inline-end;
+}
+.navbar{
+float: right;
+}
+
+.navbar{
+
+    background-color:whitesmoke;
+
+}
+.icon{
+    color: black;
+    cursor: pointer;
+    transform: translate(-30ox);
+}
+.squ{
+    border: 2px black solid;
+    height: 300px;
+    width: 20%;
+    float: left;
+    margin: 20px;
+    background-color: rgb(247, 242, 242);
+    padding: 0;
+    margin-top: 80px;
+
+}
+.squ1{
+    margin-left: 100px;
+    
+}
+.bag{
+   height: 460px;
+   background-image: linear-gradient(white,#C0C0C0) ;
+  
+  
+}
+
+.aquick{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+li{
+    margin-top: 10px;
+}
+
+.aquick:hover{
+    color: black;
+}
+
+
+.right-arrow{
+    transition: 0.5s;
+}
+
+.right-arrow:hover{
+    transform: translateX(20px);
+}
+
+.yellow-line{
+    width: 50px;
+    height: 5px;
+    background-color: #FFCD11;
+}
+
+.pics{
+    height: 310px;
+    width: 930px;
+    background-color: aquamarine;
+}
+
+.imgheight{
+    height: 310px;
+}
+
+#forth-slide{
+    text-align: center;
+    margin-bottom: 100px;
+    margin-right: 300px;
+    float: initial;
+}
+
+.covid{
+    height: 100px;
+    background-color: black;
+}
+
+.corona{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 16px;
+    margin-left: 150px;
+}
+.btn{
+    float: right;
+    margin-top: 30px;
+    margin-right: 150px;
+    width: 200px;
+    height: 35px;
+}
+#id1{
+    height: 600px;
+}
+#id2{
+    height: 500px;
+}#id3{
+    height: 300px;
+}
+.none{
+    text-decoration:none;
+    color: black;
+}
+.none:hover{
+    text-decoration: underline;
+    color: black;
+}
+.imgicon:hover{
+    color: #FFCD11;
+}
+.text{
+    color: black;
+    text-decoration: none;
+}
+.text:hover{
+    text-decoration: underline;
+    color: black;
+}
+.box{
+    float: left;
+    margin: 30px;
+    margin-left: 80px;
+    line-height: .9;
+}
